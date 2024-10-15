@@ -1,4 +1,4 @@
-# Dog Breed Classification
+# Dog Breed Identification
 
 ## Problem Statement
 The primary objective of this project is to identify the breed of a dog given an image. Utilizing deep learning techniques, the project aims to classify images into one of 120 different dog breeds.
